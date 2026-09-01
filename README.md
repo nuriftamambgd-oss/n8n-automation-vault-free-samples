@@ -15,7 +15,7 @@ A curated collection of 15 free n8n workflow samples.
 7. **HDW Lead Geländewagen** — Google Sheets
 8. **LinkedIn Leads Scraping & Enrichment (Main)** — Google Sheets
 9. **Networking & Event Management Automation** — Google Sheets
-10.**Scrape Web Data with Bright Data, Google Gemini and MCP Automated AI Agent** — Lead Generation
+10. **Scrape Web Data with Bright Data, Google Gemini and MCP Automated AI Agent** — Lead Generation
 11. **Automated Social Media Content Publishing Factory + System Prompt Composition** — Marketing & Content
 12. **2577_workflow_2577** — Messaging
 13. **My workflow** — Productivity
