@@ -41,8 +41,6 @@ Get 2,473+ unique n8n workflows for $19:
 
 👉 https://nuriftamam.gumroad.com/l/paidpro
 
-Replace the link above with your Gumroad product URL.
-
 ⭐ Support
 If you find these workflows useful, give this repository a ⭐ and share it with other n8n builders.
 
